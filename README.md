@@ -12,11 +12,7 @@
 ![](https://streak-stats.demolab.com/?user=Ankushkumar09679&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Ankushkumar09679&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 📈 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AnkushKumar09679&theme=tokyo-night"/>
-
----
 
 ## 🐍 Contribution Snake
 
